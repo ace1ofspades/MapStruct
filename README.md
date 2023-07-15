@@ -100,3 +100,9 @@ let mapStructFromData = MapStruct(jsonData)
 In the above example, we create two instances of `MapStruct`. The first one is initialized with a dictionary object, and the second one is initialized with a `Data` object containing serialized JSON data.
 
 By supporting various types of initialization, the `MapStruct` class allows you to easily create instances from different data sources and start working with the underlying dictionary-like structure.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
